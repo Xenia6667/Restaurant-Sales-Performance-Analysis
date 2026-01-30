@@ -1,6 +1,6 @@
 # Restaurant-Sales-Performance-Analysis
 A data analytics project using SQL (PostgreSQL) and Tableau to diagnose sales trends and operational efficiency for a restaurant.
-# 🍴 Restaurant Sales Performance Analysis (2026 Challenge)
+# 🍴 Restaurant Sales Performance Analysis 
 
 ## 📌 專案背景 (Project Overview)
 利用 SQL 與 Tableau 針對 12 個月的餐廳銷售數據進行營運診斷，重點在於營收趨勢追蹤與時段效能優化。
