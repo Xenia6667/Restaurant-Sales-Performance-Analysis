@@ -3,7 +3,7 @@ A data analytics project using SQL (PostgreSQL) and Tableau to diagnose sales tr
 # 🍴 Restaurant Sales Performance Analysis (2026 Challenge)
 
 ## 📌 專案背景 (Project Overview)
-利用 SQL 與 Tableau 針對 25 個月的餐廳銷售數據進行營運診斷，重點在於營收趨勢追蹤與時段效能優化。
+利用 SQL 與 Tableau 針對 12 個月的餐廳銷售數據進行營運診斷，重點在於營收趨勢追蹤與時段效能優化。
 
 ## 🛠️ 技術重點 (Technical Highlights)
 - **數據清理 (Data Cleaning)**：使用正則表達式與日期函數統一銷售時間格式。
